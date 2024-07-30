@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.exe.config
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.exe
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.pdb
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.Form1.resources
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.Properties.Resources.resources
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.exe
+C:\Users\btk02\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.pdb
